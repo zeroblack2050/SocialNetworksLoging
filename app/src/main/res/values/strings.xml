@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NetworksLogint</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">N57850wf992dr4sNaKotkZYLi</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">MHnqJTzqTWwxjor5UJnhralbBYp3KXM74aFjBZP2Ru5t1II2Nu</string>
+    <string name="facebook_app_id">1955537921329686</string>
+    <string name="fb_login_protocol_scheme">fb1955537921329686</string>
+    <string name="canceled">Cancelado</string>
+
+</resources>
